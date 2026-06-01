@@ -1,0 +1,16 @@
+{
+  "name": "recipesmasters",
+  "version": "1.0.0",
+  "description": "Site pour partager des recettes entre utilisateurs",
+  "license": "ISC",
+  "author": "adrien",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
+}
