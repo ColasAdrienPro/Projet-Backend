@@ -1,2 +1,5 @@
-const userRouter = require("express").Router()
-const userModel = require("../models/recipeModel")
+const recipeRouter = require("express").Router()
+const recipeModel = require("../models/recipeModel")
+
+
+module.exports = recipeRouter
